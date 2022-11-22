@@ -12,13 +12,13 @@ public class Sample1Test {
 	@Test
 	public void test2()
 	{
-		System.out.println("Vegeta");
+		System.out.println("Vegeta prince");
 	}
 	
 	@Test
 	public void sample()
 	{
-		System.out.println("Broly");
+		System.out.println("Broly legendary SSj");
 	}
 	@Test
 	public void sample1()
