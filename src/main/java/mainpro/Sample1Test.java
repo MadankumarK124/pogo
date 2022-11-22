@@ -30,4 +30,9 @@ public class Sample1Test {
 	{
 		System.out.println("Trunks");
 	}
+	@Test
+	public void sample3()
+	{
+		System.out.println("Trunks2");
+	}
 }
