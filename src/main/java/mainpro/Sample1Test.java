@@ -7,27 +7,27 @@ public class Sample1Test {
 	public void test1()
 	
 	{
-		System.out.println("script1");
+		System.out.println("Goku");
 	}
 	@Test
 	public void test2()
 	{
-		System.out.println("Script2");
+		System.out.println("Vegeta");
 	}
 	
 	@Test
 	public void sample()
 	{
-		System.out.println("sample1");
+		System.out.println("Broly");
 	}
 	@Test
 	public void sample1()
 	{
-		System.out.println("sample2");
+		System.out.println("Gohan");
 	}
 	@Test
 	public void sample2()
 	{
-		System.out.println("sample3");
+		System.out.println("Trunks");
 	}
 }
